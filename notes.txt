@@ -1,0 +1,12 @@
+1- old way new xmlhttp req 
+2- promises fetch .then
+3- async await
+
+
+task : 
+index.html ==> displays all posts  ==> https://jsonplaceholder.typicode.com/posts
+details.html ==> displays post details ==>https://jsonplaceholder.typicode.com/posts/1
+and also displays comments of the post 
+https://jsonplaceholder.typicode.com/posts/1/comments
+
+handle if user search on deleted post ==> there is no post 

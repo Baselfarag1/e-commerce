@@ -1,0 +1,34 @@
+img{
+    height: 500px !important;
+}
+body{
+    padding-top: 60px;
+}
+#EndSecetion
+{
+    background-color: black;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+
+#EndSecetion .links a
+{
+    padding-right: 1.5%;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+#EndSecetion .links a:hover
+{
+    color: #0d6efd;
+}
+
+.HomeSecetion
+{
+   background-color: #dcf4fe;
+   padding-top: 10%;
+   padding-bottom: 10%; 
+} 
